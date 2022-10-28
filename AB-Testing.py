@@ -102,7 +102,7 @@ print("Test group mean: %.4f" %df_test["Purchase"].mean())
 
 
 ############################
-# Normallik Varsayımı
+# Normality Assumption
 ############################
 
 # H0: Normal distribution assumption is provided.
